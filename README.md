@@ -3,8 +3,8 @@
 ## Getting started (< 2mn)
 
 ```
-git clone git@github.com:jbuget/nodejs-clean-architecture-app.git
-cd nodejs-clean-architecture-app
+git clone git@github.com:francoserio/launch-challenge.git
+cd launch-challenge
 npm install
 npm test
 npm start
