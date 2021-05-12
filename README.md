@@ -10,6 +10,9 @@ npm test
 npm start
 ```
 
+**Remember to add an .env file with at least the following entries:**
+* DATABASE_URI: The database connection string.
+
 In a browser, open [http://localhost:3000/hello](http://localhost:3000/hello).
 
 ## Domain Driven Architectures
